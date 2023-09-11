@@ -1,6 +1,6 @@
 *{
     font-family: 'Arial', sans-serif;
-    background: url(Library\ BG.jpg);
+   
 }
 header {
     position: sticky;
@@ -12,6 +12,7 @@ header {
 
 body{
     background-size: cover;
+    background: url(Library\ BG.jpg);
 }
 
 
